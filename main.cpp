@@ -10,15 +10,16 @@
 #include "text_analyzer.cpp"
 #include "matrix_sum.cpp"
 
+// Helper: parse vector from string input "[1,2,3]"
 std::vector<int> parseVector(const std::string& str) {
     std::vector<int> nums;
-    std::string s = str.substr(1, str.size() - 2);
+    std::string s = str.substr(1, str.size() - 2); // remove [ ]
     std::stringstream ss(s);
     int num;
     char comma;
     while (ss >> num) {
         nums.push_back(num);
-        ss >> comma;
+        ss >> comma; // consume comma
     }
     return nums;
 }

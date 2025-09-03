@@ -7,11 +7,10 @@ Welcome to **Lab 6** 🚀! This lab will give you more practice with **functions
 1. Reverse numbers in a list  
 2. Calculate factorial of a number  
 3. Count even and odd numbers in a list  
-4. Find the second largest number  
-
-### Optional (extra practice)
-- Text Analyzer (count vowels and consonants)  
-- Matrix Sum (add two matrices)  
+4. Find the second largest number
+5. Text Analyzer (count vowels and consonants)
+6. Matrix Sum (add two matrices)
+ 
 
 ## Commands
 

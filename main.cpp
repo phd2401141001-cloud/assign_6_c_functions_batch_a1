@@ -3,12 +3,14 @@
 #include <string>
 #include <sstream>
 
-#include "reverse.cpp"
-#include "factorial.cpp"
-#include "count_even_odd.cpp"
-#include "second_largest.cpp"
-#include "text_analyzer.cpp"
-#include "matrix_sum.cpp"
+// Forward declarations
+std::vector<int> reverseArray(const std::vector<int>& nums);
+int factorial(int n);
+std::pair<int,int> countEvenOdd(const std::vector<int>& nums);
+int secondLargest(const std::vector<int>& nums);
+std::pair<int,int> analyzeText(const std::string& text);
+std::vector<std::vector<int>> addMatrices(const std::vector<std::vector<int>>& A,
+                                          const std::vector<std::vector<int>>& B);
 
 // Helper: parse vector from string input "[1,2,3]"
 std::vector<int> parseVector(const std::string& str) {

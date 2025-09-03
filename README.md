@@ -95,16 +95,16 @@ Just run `./check.sh` - it will test ALL your functions automatically and tell y
 - **Example**: In `[12,5,8,20,15]` → `15`  
 - **What you need to code**: A function that checks for the largest and second largest values  
 
-## Optional Tasks (For Extra Practice)
 
-### 5. Text Analyzer Function (Optional)
+
+### 5. Text Analyzer Function 
 **Command**: `./main text_analyzer "hello"`  
 
 - **What it does**: Counts vowels and consonants in a string  
 - **Example**: `"hello"` → `Vowels: 2, Consonants: 3`  
 - **What you need to code**: A function that checks each character in the string  
 
-### 6. Matrix Sum Function (Optional)
+### 6. Matrix Sum Function 
 **Command**: `./main matrix_sum "[[1,2],[3,4]]" "[[5,6],[7,8]]"`  
 
 - **What it does**: Adds two matrices  

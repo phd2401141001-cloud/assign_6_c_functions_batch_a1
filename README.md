@@ -8,9 +8,9 @@ We're creating a small C++ program that can do 4 different things:
 1. Reverse numbers in a list  
 2. Calculate the factorial of a number  
 3. Count even and odd numbers in a list  
-4. Find the second largest number in a list  
-
-**There are also two OPTIONAL tasks** for extra practice: analyzing text (vowels and consonants) and adding two matrices.
+4. Find the second largest number in a list
+5. analyzing text (vowels and consonants)
+6. adding two matrices.
 
 ## Important: What You'll Need to Do
 

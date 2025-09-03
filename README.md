@@ -1,6 +1,6 @@
-# Lab 7: Functions and Arrays - New Challenges
+# Lab 6: Functions and Arrays - New Challenges
 
-Welcome to **Lab 7** 🚀! This lab continues from Lab 6, giving you more practice with **functions** and **arrays (vectors)** in C++.
+Welcome to **Lab 6** 🚀! This lab will give you more practice with **functions** and **arrays (vectors)** in C++.
 
 ## Tasks
 

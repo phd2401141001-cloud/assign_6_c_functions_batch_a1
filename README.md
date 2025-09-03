@@ -23,8 +23,8 @@ We're creating a small C++ program that can do 4 different things:
 - `factorial.cpp` - Contains the code to calculate factorials  
 - `count_even_odd.cpp` - Contains the code to count even and odd numbers  
 - `second_largest.cpp` - Contains the code to find the second largest number  
-- `text_analyzer.cpp` - Contains the code to count vowels and consonants (optional)  
-- `matrix_sum.cpp` - Contains the code to add two matrices (optional)  
+- `text_analyzer.cpp` - Contains the code to count vowels and consonants 
+- `matrix_sum.cpp` - Contains the code to add two matrices
 - `check.sh` - A helpful script that compiles and tests your code  
 
 ## How to Start - Step by Step
